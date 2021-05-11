@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895757460365",
+    "firebase_url": "https://blocksgame-e3b94.firebaseio.com",
+    "project_id": "blocksgame-e3b94",
+    "storage_bucket": "blocksgame-e3b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895757460365:android:438aac3f0574f3d2",
+        "android_client_info": {
+          "package_name": "bvr.blockgame.game.blockreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895757460365-ue2bb7tbktl80t1gbmc697hfvt8onvqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bvr.blockgame.game.blockreact",
+            "certificate_hash": "41f5228bf7442109430a5dcda0f8a74ca1b7f6db"
+          }
+        },
+        {
+          "client_id": "895757460365-safdt5mjrrbu74aeiirpfvbkoca95qsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi_7v0qivd9uAlHp4483pAL3wUbQdE-wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895757460365-safdt5mjrrbu74aeiirpfvbkoca95qsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
